@@ -8,7 +8,7 @@ playlist.push("Snooze")
 playlist.push("Best Part")
 
 // Task 3: Update the value of the last element to be "Test"
-playlist[2] = "test"
+playlist[2] = "Test"
 
 // Task 4: Delete the "Test" element 
 playlist.pop()
